@@ -1,3 +1,3 @@
 # BitrixAPI
 
-Example for using WebClient with Bitrix24
+Example for using Spring Boot and WebClient with Bitrix24 API
